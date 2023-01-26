@@ -1,0 +1,37 @@
+.qacard{
+    margin-left: 5rem;
+    margin-top: 6rem;
+    width: 47rem;
+    /* height: 50rem; */
+    height:80vh;
+    border: #cecaca solid 1px;
+    background: white;
+    border-radius: 1rem;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    gap:1rem;
+    
+}
+.inner-card{
+    display: flex;
+    background-color: rgb(221, 144, 144);
+    align-items: flex-start;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-content: flex-start;
+    height: 10rem;
+    flex-direction: column;
+    border-radius: 10px;
+  
+}
+.h2{
+    padding-left:4rem;
+    margin-bottom:.5rem;
+}
+.h3{
+    padding-left: 1.5rem;
+}
+.p{
+    padding-left: 1.5rem;
+}

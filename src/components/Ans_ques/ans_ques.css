@@ -1,0 +1,15 @@
+.ansques-div{
+    display: flex;
+    flex-direction: column;
+
+}
+.answer-page{
+    display: flex;
+    flex-direction: row;
+}
+.button-style-ans{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 3rem;
+    margin-top: 23rem;
+}
